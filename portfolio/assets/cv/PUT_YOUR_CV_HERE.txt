@@ -1,0 +1,9 @@
+Drop your CV PDF in this folder and name it exactly:
+
+Daniel_Murimi_Njiraini_CV.pdf
+
+The "Résumé" link in the site navigation already points to:
+assets/cv/Daniel_Murimi_Njiraini_CV.pdf
+
+If you'd rather use a different filename, update the href in index.html
+(search for "nav-cv").
